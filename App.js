@@ -13,6 +13,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.paragraph}>
         Text change in here for the purpose of changes
+        The new line
       </Text>
       <Card>
         <AssetExample />
