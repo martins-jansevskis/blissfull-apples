@@ -12,7 +12,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
-        Text change
+        Text change in here for the purpose of changes
       </Text>
       <Card>
         <AssetExample />
